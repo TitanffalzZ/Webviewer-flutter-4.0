@@ -1,3 +1,8 @@
-# webview_test_infoisis
+# Webviewer básico flutter plugin 4.0
 
-A new Flutter project.
+Webviewer que Abre qualquer site no celular 
+
+![Uploading image.png…]()
+
+Site aberto:portal voz do cliente
+#PODE SER USADO COMO SAMPLE
